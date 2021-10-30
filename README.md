@@ -2,17 +2,17 @@
 
 ## Algorithm
 
-### Import the relevant libraries
+### 1) Import the relevant libraries
 
-### Load the Data
+### 2) Load the Data
 
-### Clustring Algorithm
+### 3) Clustring Algorithm
 -   i. Use KMeans Clustering
 -   ii. Choose the number of clusters
 -   iii. Fit the data
 -   iv. Cluster the Data and Plot it
 
-### Elbow method
+### 4) Elbow method
 -   i. Within Cluster Sum of Squares (WCSS)
 -   ii. Declare the range of number of clusters
 -   iii. Append the WCSS for the iteration
